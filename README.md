@@ -1,4 +1,4 @@
-## Yahallo 👋
+## Hello 👋
 
 Profile pic from [ことぶきつかさ](https://twitter.com/t_kotobuki/status/1326200658500874240)
 
