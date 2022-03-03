@@ -1,4 +1,6 @@
-### Hi there 👋
+## Yahallo 👋
+
+Profile pic from [ことぶきつかさ](https://twitter.com/t_kotobuki/status/1326200658500874240)
 
 <!--
 **charliekiloking/charliekiloking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
